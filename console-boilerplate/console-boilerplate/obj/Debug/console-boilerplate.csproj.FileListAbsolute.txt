@@ -1,0 +1,6 @@
+C:\Users\gian\Documents\GitHub\console-boilerplate\console-boilerplate\console-boilerplate\bin\Debug\console-boilerplate.exe.config
+C:\Users\gian\Documents\GitHub\console-boilerplate\console-boilerplate\console-boilerplate\bin\Debug\console-boilerplate.exe
+C:\Users\gian\Documents\GitHub\console-boilerplate\console-boilerplate\console-boilerplate\bin\Debug\console-boilerplate.pdb
+C:\Users\gian\Documents\GitHub\console-boilerplate\console-boilerplate\console-boilerplate\obj\Debug\console-boilerplate.csprojResolveAssemblyReference.cache
+C:\Users\gian\Documents\GitHub\console-boilerplate\console-boilerplate\console-boilerplate\obj\Debug\console-boilerplate.exe
+C:\Users\gian\Documents\GitHub\console-boilerplate\console-boilerplate\console-boilerplate\obj\Debug\console-boilerplate.pdb
